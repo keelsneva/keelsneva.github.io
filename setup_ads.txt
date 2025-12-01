@@ -28,5 +28,5 @@
     "applovin"
   ],
   "loadingFist": 1,
-  "holala": "aHR0cHM6Ly93dWFuaWEuc2l0ZQ=="
+  "holala": "aHR0cHM6Ly93dWFuaWEub25saW5l"
 }
